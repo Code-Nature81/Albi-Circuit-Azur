@@ -42,7 +42,7 @@ class CitiesSlider extends React.Component {
       const { activeSlide, prevSlide, sliderReady } = this.state;
       return (
         React.createElement("div", { className: classNames('slider', { 's--ready': sliderReady }) },
-        React.createElement("p", { className: "slider__top-heading" }, "Albi lieux à voir Circuit Azur"),
+        React.createElement("p", { className: "slider__top-heading" }, "Albi: Circuit Azur"),
         
         React.createElement("div", { className: "slider__slides" },
         this.props.slides.map((slide, index) =>
