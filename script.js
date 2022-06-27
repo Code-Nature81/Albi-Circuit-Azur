@@ -96,7 +96,7 @@ class CitiesSlider extends React.Component {
   {
     city: 'Gorsse',
     country: 'Hotel',
-    img: 'https://image.jimcdn.com/app/cms/image/transf/none/path/sb96c01c741db7101/image/i8ec18849dc2aabef/version/1655140542/image.png' },
+    img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sb96c01c741db7101/image/id604cf96e8fecb0b/version/1656341492/image.jpg' },
   
     {
         city: 'Romane',
